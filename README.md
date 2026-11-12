@@ -1,90 +1,96 @@
-
 # Hi, I'm Grace Yesica Simanjuntak! 👋
 
-### Computer Engineering Student | Aspiring Software Developer
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=graceyesica&label=Profile%20Views&color=0e75b6&style=flat" alt="Views Count" />
+</p>
 
-I'm a Diploma III Computer Technology student at Institut Teknologi Del, Indonesia. I have an interest in software development, Internet of Things (IoT), backend development, and information systems.
+### 🎓 Computer Engineering Student | Aspiring Software Developer
 
-I enjoy learning new technologies, collaborating with teams, and developing practical solutions through academic and personal projects.
+I'm a Diploma III Computer Technology student at **Institut Teknologi Del**, Indonesia. I am passionate about software engineering, Internet of Things (IoT), and backend development. I thrive on building practical solutions, exploring modern technologies, and collaborating in team-driven environments.
 
-## 🎓 Education
-
-**Institut Teknologi Del**
-- Diploma III in Computer Technology
-- 2024 – Present
-- Expected Graduation: 2027
-
-## 💼 Organizational Experience
-
-**Secretary – HIMATEK (Computer Technology Student Association)**
-- Responsible for organizational administration and documentation.
-- Assisted in coordinating organizational activities and programs.
-- Developed communication, teamwork, and organizational skills.
-
-## 🚀 Leadership & Project Experience
-
-**Project Leader – IoT Soil Nutrient Monitoring System**
-- Coordinated project activities and team collaboration.
-- Participated in system planning and development.
-- Contributed to the development of an IoT-based soil nutrient monitoring system with AI-based planting recommendations.
-
-**Project Leader – UMKM Website Development**
-- Coordinated the development of a website for local businesses in Toba and Samosir.
-- Participated in project planning and requirements analysis.
-- Worked with the team to develop a website using the Waterfall methodology.
-
-## 💻 Areas of Interest
-
-- Web Development
-- Backend Development
-- Internet of Things (IoT)
-- Database Management
-- Computer Networking
-- Artificial Intelligence
+---
 
 ## 🛠️ Technical Skills
 
-**Programming Languages**
-- PHP
-- Golang
-- HTML & CSS
+<details open>
+<summary><b>Languages & Frameworks</b></summary>
+<br>
 
-**Database**
-- PostgreSQL
-- MySQL
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Hardware & IoT**
-- ESP32
-- RS485 / Modbus RTU
+</details>
 
-**Tools & Technologies**
-- Git & GitHub
-- Visual Studio Code
-- Flutter
-- Next.js
+<details open>
+<summary><b>Databases & Hardware (IoT)</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Modbus](https://img.shields.io/badge/RS485%20%2F%20Modbus%20RTU-4D4D4D?style=for-the-badge)
+
+</details>
+
+<details open>
+<summary><b>Tools & Platforms</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</details>
+
+---
+
+## 📜 Certifications & Achievements
+
+> 💡 *Ganti teks di bawah ini dengan nama sertifikat yang baru kamu dapat semalam:*
+
+- **[Nama Sertifikatmu di Sini]** – *Penyelenggara (misal: Dicoding / Coursera / Cisco)* | 2024  
+  🔗 [Verifikasi Sertifikat / Kredensial](https://link-sertifikatmu.com)
+
+---
 
 ## 📂 Featured Projects
 
-**1. UMKM Website – Toba and Samosir**
+### 🌾 [IoT Soil Nutrient Monitoring System](https://github.com/graceyesica/perangkat-pengukur-unsur-hara-tanah-portabel)
+> *Role: Project Leader*
+- An IoT-based device designed to measure soil nutrients, monitor data in real-time, and provide AI-based crop planting recommendations.
+- **Tech Stack:** ESP32, Modbus RS485, IoT Sensors.
 
-A web-based platform designed to help users discover local businesses, restaurants, and products in Toba and Samosir.
+### 🌐 [UMKM Website – Toba and Samosir](https://github.com/graceyesica/website-informasi-umkm-toba-samosir)
+> *Role: Project Leader*
+- A centralized web-based platform dedicated to promoting local MSMEs, restaurants, and native crafts across Toba and Samosir.
+- **Tech Stack:** Web Development, Waterfall Methodology.
 
-**2. IoT Soil Nutrient Monitoring System**
+### 💨 SmartFan IoT
+- An automated temperature-responsive fan system activated using ambient heat monitoring and human presence sensing.
+- **Tech Stack:** ESP32, Sensors, Embedded C/C++.
 
-An IoT-based system for measuring soil nutrients, displaying measurement data, and providing AI-based planting recommendations.
+---
 
-**3. SmartFan IoT**
+## 🚀 Leadership & Organizational Experience
 
-An IoT project that controls a fan based on room temperature and human presence.
+- **Secretary** – *HIMATEK (Computer Technology Student Association)* `2024 – Present`
+  - Led administrative documentation, coordinated member records, and assisted overall program scheduling.
+- **Project Leader** – Guided software and IoT student development teams from ideation to delivery.
 
-## 🌱 Currently Learning
+---
 
-- Backend Development
-- REST API Development
-- Software Engineering
-- Database Management
-- IoT System Integration
+## 🎓 Education
 
-## 📫 Connect With Me
+- **Diploma III in Computer Technology** | *Institut Teknologi Del* `2024 – 2027 (Expected)`
+  - Active focus: Embedded Systems, Computer Networking, Software Development.
 
-- GitHub: [@graceyesica](https://github.com/graceyesica)
+---
+
+## 🌱 Currently Exploring
+
+```text
+Backend Architectures  •  RESTful API Design  •  IoT System Integration  •  Database Optimization
