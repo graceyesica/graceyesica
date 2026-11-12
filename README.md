@@ -10,6 +10,31 @@ I'm a Diploma III Computer Technology student at **Institut Teknologi Del**, Ind
 
 ---
 
+## 📜 Licenses & Certifications
+
+<table>
+  <tr>
+    <td width="350">
+      <a href="https://www.hackerrank.com/certificates/527C41687E54" target="_blank">
+        <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-cert.jpg" onerror="this.onerror=null; this.src='https://raw.githubusercontent.com/graceyesica/graceyesica/main/sql-basic.png';" alt="SQL (Basic) Certificate HackerRank" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" />
+      </a>
+    </td>
+    <td valign="top">
+      <h3>SQL (Basic) Skill Certification</h3>
+      <p>
+        <b>Issuing Organization:</b> HackerRank<br>
+        <b>Issue Date:</b> November 2026<br>
+        <b>Credential ID:</b> <code>527C41687E54</code>
+      </p>
+      <a href="https://www.hackerrank.com/certificates/527C41687E54" target="_blank">
+        <img src="https://img.shields.io/badge/Verify_Credential-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Technical Skills
 
 <details open>
@@ -29,6 +54,7 @@ I'm a Diploma III Computer Technology student at **Institut Teknologi Del**, Ind
 <summary><b>Databases & Hardware (IoT)</b></summary>
 <br>
 
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
@@ -45,15 +71,6 @@ I'm a Diploma III Computer Technology student at **Institut Teknologi Del**, Ind
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </details>
-
----
-
-## 📜 Certifications & Achievements
-
-> 💡 *Ganti teks di bawah ini dengan nama sertifikat yang baru kamu dapat semalam:*
-
-- **[Nama Sertifikatmu di Sini]** – *Penyelenggara (misal: Dicoding / Coursera / Cisco)* | 2024  
-  🔗 [Verifikasi Sertifikat / Kredensial](https://link-sertifikatmu.com)
 
 ---
 
