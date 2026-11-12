@@ -1,3 +1,4 @@
+[sql_basic certificate.pdf](https://github.com/user-attachments/files/34723033/sql_basic.certificate.pdf)
 # Hi, I'm Grace Yesica Simanjuntak! 👋
 
 <p align="left">
