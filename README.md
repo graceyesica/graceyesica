@@ -13,26 +13,13 @@ I'm a Diploma III Computer Technology student at **Institut Teknologi Del**, Ind
 
 ## 📜 Licenses & Certifications
 
-<table>
-  <tr>
-    <td width="350">
-      <a href="https://www.hackerrank.com/certificates/527C41687E54" target="_blank">
-        <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-cert.jpg" onerror="this.onerror=null; this.src='https://raw.githubusercontent.com/graceyesica/graceyesica/main/sql-basic.png';" alt="SQL (Basic) Certificate HackerRank" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" />
-      </a>
-    </td>
-    <td valign="top">
-      <h3>SQL (Basic) Skill Certification</h3>
-      <p>
-        <b>Issuing Organization:</b> HackerRank<br>
-        <b>Issue Date:</b> November 2026<br>
-        <b>Credential ID:</b> <code>527C41687E54</code>
-      </p>
-      <a href="https://www.hackerrank.com/certificates/527C41687E54" target="_blank">
-        <img src="https://img.shields.io/badge/Verify_Credential-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="TEMPEL_LINK_GAMBAR_DI_SINI" alt="Sertifikat SQL Basic Grace Yesica" width="600" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <br><br>
+  <a href="https://www.hackerrank.com/certificates/527C41687E54" target="_blank">
+    <img src="https://img.shields.io/badge/Verify_Credential-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  </a>
+</div>
 
 ---
 
