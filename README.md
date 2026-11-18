@@ -12,14 +12,61 @@ I'm a Diploma III Computer Technology student at **Institut Teknologi Del**, Ind
 ---
 
 ## 📜 Licenses & Certifications
+## 📜 Licenses & Certifications
 
-<div align="center">
-  <img src="TEMPEL_LINK_GAMBAR_DI_SINI" alt="Sertifikat SQL Basic Grace Yesica" width="600" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-  <br><br>
-  <a href="https://www.hackerrank.com/certificates/527C41687E54" target="_blank">
-    <img src="https://img.shields.io/badge/Verify_Credential-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-  </a>
-</div>
+<table>
+  <!-- Baris 1: Software Engineer Intern & Problem Solving -->
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://www.hackerrank.com/certificates/CFB1B263D3F5" target="_blank">
+        <img src="./software_engineer_intern%20certificate.jpg" alt="Software Engineer Intern" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" />
+      </a>
+      <br><br>
+      <b>Software Engineer Intern</b>
+      <br>
+      <a href="https://www.hackerrank.com/certificates/CFB1B263D3F5" target="_blank">
+        <img src="https://img.shields.io/badge/Verify-HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://www.hackerrank.com/certificates/7115F06CF889" target="_blank">
+        <img src="./problem_solving_intermediate%20certificate.jpg" alt="Problem Solving Intermediate" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" />
+      </a>
+      <br><br>
+      <b>Problem Solving (Intermediate)</b>
+      <br>
+      <a href="https://www.hackerrank.com/certificates/7115F06CF889" target="_blank">
+        <img src="https://img.shields.io/badge/Verify-HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" />
+      </a>
+    </td>
+  </tr>
+
+  <!-- Baris 2: Python (Basic) & SQL (Basic) -->
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://www.hackerrank.com/certificates/AF25CD258C5D" target="_blank">
+        <img src="./python_basic%20certificate.jpg" alt="Python Basic" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" />
+      </a>
+      <br><br>
+      <b>Python (Basic)</b>
+      <br>
+      <a href="https://www.hackerrank.com/certificates/AF25CD258C5D" target="_blank">
+        <img src="https://img.shields.io/badge/Verify-HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://www.hackerrank.com/certificates/527C41687E54" target="_blank">
+        <img src="./sql_basic.certificate.jpg" alt="SQL Basic" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" />
+      </a>
+      <br><br>
+      <b>SQL (Basic)</b>
+      <br>
+      <a href="https://www.hackerrank.com/certificates/527C41687E54" target="_blank">
+        <img src="https://img.shields.io/badge/Verify-HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
