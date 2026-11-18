@@ -12,7 +12,6 @@ I'm a Diploma III Computer Technology student at **Institut Teknologi Del**, Ind
 ---
 
 ## 📜 Licenses & Certifications
-## 📜 Licenses & Certifications
 
 <table>
   <!-- Baris 1: Software Engineer Intern & Problem Solving -->
