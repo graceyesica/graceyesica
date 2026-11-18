@@ -120,7 +120,7 @@ I'm a Diploma III Computer Technology student at **Institut Teknologi Del**, Ind
 - A centralized web-based platform dedicated to promoting local MSMEs, restaurants, and native crafts across Toba and Samosir.
 - **Tech Stack:** Web Development, Waterfall Methodology.
 
-### 💨 SmartFan IoT
+### 💨 An Internet of Things (IoT)-Based Soil Nutrient Measurement System and Generative Artificial Intelligence (AI)-Based Analysis
 - An automated temperature-responsive fan system activated using ambient heat monitoring and human presence sensing.
 - **Tech Stack:** ESP32, Sensors, Embedded C/C++.
 
