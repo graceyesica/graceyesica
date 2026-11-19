@@ -17,7 +17,7 @@ I'm a Diploma III Computer Technology student at **Institut Teknologi Del**, Ind
   <tr>
     <td width="50%" align="center">
       <a href="https://www.hackerrank.com/certificates/CFB1B263D3F5" target="_blank">
-        <img src="./software_engineer_intern certificate.jpg" alt="Software Engineer Intern" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" />
+        <img src="./software_engineer_intern%20certificate.jpg" alt="Software Engineer Intern" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" />
       </a>
       <br><br>
       <b>Software Engineer Intern</b>
@@ -28,7 +28,7 @@ I'm a Diploma III Computer Technology student at **Institut Teknologi Del**, Ind
     </td>
     <td width="50%" align="center">
       <a href="https://www.hackerrank.com/certificates/7115F06CF889" target="_blank">
-        <img src="./problem_solving_intermediate certificate.jpg" alt="Problem Solving Intermediate" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" />
+        <img src="./problem_solving_intermediate%20certificate.jpg" alt="Problem Solving Intermediate" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" />
       </a>
       <br><br>
       <b>Problem Solving (Intermediate)</b>
@@ -43,7 +43,7 @@ I'm a Diploma III Computer Technology student at **Institut Teknologi Del**, Ind
   <tr>
     <td width="50%" align="center">
       <a href="https://www.hackerrank.com/certificates/AF25CD258C5D" target="_blank">
-        <img src="./python_basic certificate.jpg" alt="Python Basic" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" />
+        <img src="./python_basic%20certificate.jpg" alt="Python Basic" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" />
       </a>
       <br><br>
       <b>Python (Basic)</b>
@@ -69,7 +69,7 @@ I'm a Diploma III Computer Technology student at **Institut Teknologi Del**, Ind
   <tr>
     <td width="50%" align="center">
       <a href="#" target="_blank">
-        <img src="./golang_basic certificate.jpg" alt="Go Basic" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" />
+        <img src="./golang_basic%20certificate.jpg" alt="Go Basic" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" />
       </a>
       <br><br>
       <b>Go (Basic)</b>
@@ -80,7 +80,7 @@ I'm a Diploma III Computer Technology student at **Institut Teknologi Del**, Ind
     </td>
     <td width="50%" align="center">
       <a href="#" target="_blank">
-        <img src="./rest_api_intermediate certificate.jpg" alt="REST API Intermediate" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" />
+        <img src="./rest_api_intermediate%20certificate.jpg" alt="REST API Intermediate" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" />
       </a>
       <br><br>
       <b>REST API (Intermediate)</b>
