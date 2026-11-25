@@ -145,20 +145,20 @@ I'm a Diploma III Computer Technology student at **Institut Teknologi Del**, Ind
 - A centralized web-based platform dedicated to promoting local MSMEs, restaurants, and native crafts across Toba and Samosir.
 - **Tech Stack:** Web Development, Waterfall Methodology.
 
-### 💨 An Internet of Things (IoT)-Based Soil Nutrient Measurement System and Generative Artificial Intelligence (AI)-Based Analysis
-- An automated temperature-responsive fan system activated using ambient heat monitoring and human presence sensing.
-- **Tech Stack:** ESP32, Sensors, Embedded C/C++.
-
 ### 🏫 [CampusConnect+ (Distributed System Project)](https://github.com/graceyesica/CampusConnect-)
 > *Role: Backend & Distributed Systems Developer*
 - A distributed digital platform for campus activities and facility reservations. Built with a **Microservices Architecture**, it utilizes independent services (User, Event, Booking, Notification) communicating via REST API.
 - Implements **MongoDB Replica Set (3 nodes)** to ensure high availability, data replication, and automatic failover, simulated using VMware.
 - **Tech Stack:** Node.js, Microservices, REST API, MongoDB, VMware.
 
-### ☀️ [Smart Solar Panel Miniature with Sun Tracker & Auto Wiper] 
+### ☀️ [Smart Solar Panel Miniature with Sun Tracker & Auto Wiper] (https://github.com/graceyesica/Miniatur-Panel-Surya-Cerdas-dengan-Pelacak-Matahari-dan-Pembersih-Wiper-Otomatis)
 > *Role: Project Team Member*
 - An IoT-based smart solar panel prototype equipped with an automated sun tracking system to maximize solar energy absorption and an automatic wiper mechanism for self-cleaning.
 - **Tech Stack:** IoT, Sensors, Microcontrollers, Hardware Prototyping.
+
+### 💨 An Internet of Things (IoT)-Based Soil Nutrient Measurement System and Generative Artificial Intelligence (AI)-Based Analysis
+- An automated temperature-responsive fan system activated using ambient heat monitoring and human presence sensing.
+- **Tech Stack:** ESP32, Sensors, Embedded C/C++.
 
 ---
 
