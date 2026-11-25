@@ -90,6 +90,24 @@ I'm a Diploma III Computer Technology student at **Institut Teknologi Del**, Ind
       </a>
     </td>
   </tr>
+
+  <!-- Baris 4: Sertifikat Seminar AI & Christian Faith -->
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/graceyesica/graceyesica/blob/main/sertifikat%20seminar%20.jpg?raw=true" target="_blank">
+        <img src="https://github.com/graceyesica/graceyesica/blob/main/sertifikat%20seminar%20.jpg?raw=true" alt="Seminar AI & Christian Faith" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" />
+      </a>
+      <br><br>
+      <b>Artificial Intelligence & Christian Faith</b>
+      <br>
+      <a href="https://github.com/graceyesica/graceyesica/blob/main/sertifikat%20seminar%20.jpg?raw=true" target="_blank">
+        <img src="https://img.shields.io/badge/Seminar-Institut%20Teknologi%20Del-blue?style=flat-square" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <!-- Kolom kanan dibiarkan kosong -->
+    </td>
+  </tr>
 </table>
 
 ---
@@ -151,7 +169,7 @@ I'm a Diploma III Computer Technology student at **Institut Teknologi Del**, Ind
 - Implements **MongoDB Replica Set (3 nodes)** to ensure high availability, data replication, and automatic failover, simulated using VMware.
 - **Tech Stack:** Node.js, Microservices, REST API, MongoDB, VMware.
 
-### ☀️ [Smart Solar Panel Miniature with Sun Tracker & Auto Wiper] (https://github.com/graceyesica/Miniatur-Panel-Surya-Cerdas-dengan-Pelacak-Matahari-dan-Pembersih-Wiper-Otomatis)
+### ☀️ [Smart Solar Panel Miniature with Sun Tracker & Auto Wiper](https://github.com/graceyesica/Miniatur-Panel-Surya-Cerdas-dengan-Pelacak-Matahari-dan-Pembersih-Wiper-Otomatis)
 > *Role: Project Team Member*
 - An IoT-based smart solar panel prototype equipped with an automated sun tracking system to maximize solar energy absorption and an automatic wiper mechanism for self-cleaning.
 - **Tech Stack:** IoT, Sensors, Microcontrollers, Hardware Prototyping.
