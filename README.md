@@ -184,7 +184,7 @@ I'm a Diploma III Computer Technology student at **Institut Teknologi Del**, Ind
 
 - **Secretary** – *HIMATEK (Computer Technology Student Association)* `2024 – Present`
   - Led administrative documentation, coordinated member records, and assisted overall program scheduling.
-- **Fundraising Division Member** – *HIMATEK (Computer Technology Student Association)* `2024 – Present`
+- **Fundraising Division Member** – *HIMATEK (Computer Technology Student Association)* `2026 – Present`
 - **Active Member** – *HIMATEK (Computer Technology Student Association)* `2024 – Present`
 - **Project Leader** – Guided software and IoT student development teams from ideation to delivery.
 
