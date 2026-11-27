@@ -174,17 +174,29 @@ I'm a Diploma III Computer Technology student at **Institut Teknologi Del**, Ind
 - An IoT-based smart solar panel prototype equipped with an automated sun tracking system to maximize solar energy absorption and an automatic wiper mechanism for self-cleaning.
 - **Tech Stack:** IoT, Sensors, Microcontrollers, Hardware Prototyping.
 
-### 💨 An Internet of Things (IoT)-Based Soil Nutrient Measurement System and Generative Artificial Intelligence (AI)-Based Analysis
-- An automated temperature-responsive fan system activated using ambient heat monitoring and human presence sensing.
-- **Tech Stack:** ESP32, Sensors, Embedded C/C++.
+### 🌾 [Padi Toba: Authentic Toba Rice E-Commerce](https://github.com/graceyesica/padi-toba-ecommerce)
+> *Role: Business Analyst & UI/UX Designer*
+- An e-commerce platform designed to bridge local rice farmers in Toba directly with consumers in the city. The platform ensures fair pricing for farmers while providing customers with high-quality, authentic rice delivered to their doorsteps.
+- **Tech Stack:** Business Plan, UI/UX Design, E-Commerce.
+
+### 🌐 [Multi-Subnet Network Topology (VLSM & OSPF)](https://github.com/graceyesica/vlsm-ospf-network-topology)
+> *Role: Network Engineer*
+- A network simulation project designed to build a Wide Area Network (WAN) topology connecting multiple departments (Marketing, Finance, Warehouse, HR, Server Farm). The project implements Variable Length Subnet Mask (VLSM) for efficient IP allocation and OSPF Dynamic Routing for automatic route discovery and failover.
+- **Tech Stack:** Cisco Packet Tracer, VLSM, OSPF Routing, Network Configuration, DNS & Web Server.
+
+### 🎮 [Connect Four Multiplayer (Python Socket)](https://github.com/graceyesica/connect-four-cli-python)
+> *Role: Python Developer*
+- A terminal-based implementation of the classic Connect Four game, built using Python and Socket Programming. The game allows two players to compete in real-time from two separate terminal windows (Server and Client).
+- **Tech Stack:** Python 3, Socket Programming, TCP/IP, JSON, CLI Game.
 
 ---
 
 ## 🚀 Leadership & Organizational Experience
 
-- **Secretary** – *HIMATEK (Computer Technology Student Association)* `2024 – Present`
+- **Secretary** – *HIMATEK (Computer Technology Student Association)* `2024 – 2025`
   - Led administrative documentation, coordinated member records, and assisted overall program scheduling.
-- **Fundraising Division Member** – *HIMATEK (Computer Technology Student Association)* `2026 – Present`
+- **Head of Fundraising Division (Kepala Divisi Dana Usaha)** – *HIMATEK (Computer Technology Student Association)* `2024 – Present`
+  - Led strategic initiatives to secure financial support, managed team members, and oversaw budget allocation and financial reporting.
 - **Active Member** – *HIMATEK (Computer Technology Student Association)* `2024 – Present`
 - **Project Leader** – Guided software and IoT student development teams from ideation to delivery.
 
