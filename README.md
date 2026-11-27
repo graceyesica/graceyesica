@@ -91,7 +91,33 @@ I'm a Diploma III Computer Technology student at **Institut Teknologi Del**, Ind
     </td>
   </tr>
 
-  <!-- Baris 4: Sertifikat Seminar AI & Christian Faith -->
+  <!-- Baris 4: Sertifikat Huawei Datacom & Storage -->
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/graceyesica/graceyesica/blob/main/huawei_datacom.jpg?raw=true" target="_blank">
+        <img src="https://github.com/graceyesica/graceyesica/blob/main/huawei_datacom.jpg?raw=true" alt="HCIA-Datacom" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" />
+      </a>
+      <br><br>
+      <b>HCIA-Datacom V1.0</b>
+      <br>
+      <a href="https://github.com/graceyesica/graceyesica/blob/main/huawei_datacom.jpg?raw=true" target="_blank">
+        <img src="https://img.shields.io/badge/Certified-Huawei%20ICT%20Academy-FF0000?style=flat-square" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/graceyesica/graceyesica/blob/main/huawei_storage.jpg?raw=true" target="_blank">
+        <img src="https://github.com/graceyesica/graceyesica/blob/main/huawei_storage.jpg?raw=true" alt="HCIA-Storage" width="100%" style="border-radius: 8px; border: 1px solid #ddd;" />
+      </a>
+      <br><br>
+      <b>HCIA-Storage V5.0</b>
+      <br>
+      <a href="https://github.com/graceyesica/graceyesica/blob/main/huawei_storage.jpg?raw=true" target="_blank">
+        <img src="https://img.shields.io/badge/Certified-Huawei%20ICT%20Academy-FF0000?style=flat-square" />
+      </a>
+    </td>
+  </tr>
+
+  <!-- Baris 5: Sertifikat Seminar AI & Christian Faith -->
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/graceyesica/graceyesica/blob/main/sertifikat%20seminar%20.jpg?raw=true" target="_blank">
